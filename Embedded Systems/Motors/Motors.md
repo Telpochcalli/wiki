@@ -7,6 +7,8 @@ For a deeper insight on how motors work, and when you should use each type:
 ## Contents:
     This subcarpet contains information about ESCs (Electronic Speed Controllers), and motors themselves.
 
+    I still don't know the function for the **Robomaster Assistant**. But I included it. I hope it has controllers. As of the writing of this document, V.1.9 is the lattest release. 
+
 ## Notation:
 
 | Abbreviation | Meaning          |

@@ -49,4 +49,5 @@ Gracias UwU. 🐉
 ## "Useless" Documentation:
 1. RM Training Guidelines Repo:
     https://github.com/RoboMaster/robomaster_training_guidelines
-    It contains administrative information about how to get started with a RM team, no actual code. Refers to sites and topics to learn for the robot's development. Written in **Chinese**  
+    It contains administrative information about how to get started with a RM team, no actual code. Refers to sites and topics to learn for the robot's development. 
+    Must be build by Sphinx (Python). Written in **Chinese**  
