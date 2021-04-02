@@ -13,6 +13,9 @@ Esos links son referencias a otras documentaciones para poder hacer cosas mas ch
 3. Keil IDE: https://www.keil.com/
 4. Offial RM forum: https://bbs.robomaster.com/portal.php
 5. RobotRTS: https://robomaster.github.io/RoboRTS-Tutorial/#/en/sdk_docs/architecture
+6. Ejemplos de como programar algunas cosas: https://github.com/RoboMaster/Development-Board-C-Examples (los programas si estan chidos, pero el resto como que ni idea de que esta pasando)
+7. Docs de como desarroyar par RM: https://robomaster-dev.readthedocs.io/en/latest/
+8. Descargar el Python dev env y las cosas: https://robomaster-dev.readthedocs.io/en/latest/python_sdk/installs.html (no por nada, pero Linux y MacOS es millones de veces mas facil, quiza quieran usar o Linux o Mac o WSL)
 
 
 ## Reglas:
