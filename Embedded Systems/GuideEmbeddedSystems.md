@@ -12,9 +12,9 @@
     * You can guide yourself by the images:
     * Open Keil IDE
     * Select Family Installer. As shown in the image
-    * <img src= "Imgs/cap1.png" width = 350 title = "Open family installer">
+    * ![Open family installer](/img/cap1.png) 
     * The following window will pop-up 
-    * <img src= "Imgs/cap2.png" width = 350 title = "Family installer main screen">
+    * ![Family installer main screen](/img/cap2.png) 
     * Look for your device's family on the search bar and download all the packages from "device specific"
-    * <img src= "Imgs/cap3_LI.jpg" width = 350 title = "Select packages">
+    * ![Select packages](/img/cap3_LI.jpg) 
 
