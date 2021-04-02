@@ -53,3 +53,19 @@ Gracias UwU. 🐉
     https://github.com/RoboMaster/robomaster_training_guidelines
     It contains administrative information about how to get started with a RM team, no actual code. Refers to sites and topics to learn for the robot's development. 
     Must be build by Sphinx (Python). Written in **Chinese**  
+
+## Vocabulary and other stuff:
+https://www.youtube.com/watch?v=rXGE4tEj5IM
+
+
+**.bin files** Binary files. 
+**.dll files** _insert_ files. 
+**.pdb files** _files_ files. 
+**.xml files** _insert_ files. 
+**.xaml files** _insert_ files. 
+**.ioc files** _insert_ files. 
+**.bat files** _insert_ files. 
+**CMOS** 
+**RTOS:** Real Time Operating Systems
+**G++** Tool to compile C/C++ programs
+**Gdb** Tool to debug C/C++ programs
