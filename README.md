@@ -9,16 +9,31 @@ Este contiene PDF's y ReadMes para establecer los detalles de cada parte y su in
 Esos links son referencias a otras documentaciones para poder hacer cosas mas chidas y mejor.
 
 1. Official RM GitHub: https://github.com/RoboMaster
-2. STM32 Website: https://www.st.com/content/st_com/en.html
-3. Keil IDE: https://www.keil.com/
-4. Offial RM forum: https://bbs.robomaster.com/portal.php
-5. RobotRTS: https://robomaster.github.io/RoboRTS-Tutorial/#/en/sdk_docs/architecture
-6. Ejemplos de como programar algunas cosas: https://github.com/RoboMaster/Development-Board-C-Examples (los programas si estan chidos, pero el resto como que ni idea de que esta pasando)
-7. Docs de como desarroyar par RM: https://robomaster-dev.readthedocs.io/en/latest/
-8. Descargar el Python dev env y las cosas: https://robomaster-dev.readthedocs.io/en/latest/python_sdk/installs.html (no por nada, pero Linux y MacOS es millones de veces mas facil, quiza quieran usar o Linux o Mac o WSL)
-9. Battery use information under the name "Intelligent Flight Battery Guidelines": https://cdn-hz.robomaster.com/documents/935c504aecb741521451469256431010.pdf
-10. https://github.com/illini-robomaster/iRM_Embedded_2020
-11. RTOS info: https://www.keil.com/pack/doc/CMSIS/RTOS/html/group__CMSIS__RTOS.html
+1. Offial RM forum: https://bbs.robomaster.com/portal.php
+
+1. STM32 Website: https://www.st.com/content/st_com/en.html
+1. Keil IDE: https://www.keil.com/
+
+1. RobotRTS (EN): 
+    * https://robomaster.github.io/RoboRTS-Tutorial/#/en/sdk_docs/architecture
+    * https://github.com/RoboMaster/RoboRTS-Firmware/blob/icra2021/doc/en/readme.md
+    * https://github.com/RoboMaster/RoboRTS-Firmware/blob/icra2021/doc/en/protocol.md
+1. Ejemplos de como programar algunas cosas: https://github.com/RoboMaster/Development-Board-C-Examples (los programas si estan chidos, pero el resto como que ni idea de que esta pasando)
+
+1. Docs de como desarroyar par RM: https://robomaster-dev.readthedocs.io/en/latest/
+1. Descargar el Python dev env y las cosas: https://robomaster-dev.readthedocs.io/en/latest/python_sdk/installs.html (no por nada, pero Linux y MacOS es millones de veces mas facil, quiza quieran usar o Linux o Mac o WSL)
+
+1. Battery use information under the name "Intelligent Flight Battery Guidelines": https://cdn-hz.robomaster.com/documents/935c504aecb741521451469256431010.pdf
+
+1. Team iRM Guide: https://github.com/illini-robomaster/iRM_Embedded_2020
+1. Team iRM tutorials: https://github.com/illini-robomaster/iRM_Embedded_2018/tree/master/tutorials
+1. RTOS info: https://www.keil.com/pack/doc/CMSIS/RTOS/html/group__CMSIS__RTOS.html
+    * CMIS RTOS and Free RTOS are different dependencies 
+1. Guide to crack Keil: https://www.cnblogs.com/sasasatori/p/11599883.html
+1. RT-thread: https://www.rt-thread.org/document/site/tutorial/nano/nano-port-cube/an0041-nano-port-cube/ (No es necesario, es un ejemplo de desarrollo)
+1. Got many resources from this blog: https://blog.csdn.net/qq_35739721/article/details/105357480
+1. J-Link manuals: https://www.segger.com/downloads/jlink/
+
 ## Reglas:
 
 - Estamos creando un folder por cada tema.
