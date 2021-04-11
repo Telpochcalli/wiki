@@ -16,8 +16,9 @@ Esos links son referencias a otras documentaciones para poder hacer cosas mas ch
 6. Ejemplos de como programar algunas cosas: https://github.com/RoboMaster/Development-Board-C-Examples (los programas si estan chidos, pero el resto como que ni idea de que esta pasando)
 7. Docs de como desarroyar par RM: https://robomaster-dev.readthedocs.io/en/latest/
 8. Descargar el Python dev env y las cosas: https://robomaster-dev.readthedocs.io/en/latest/python_sdk/installs.html (no por nada, pero Linux y MacOS es millones de veces mas facil, quiza quieran usar o Linux o Mac o WSL)
-
-
+9. Battery use information under the name "Intelligent Flight Battery Guidelines": https://cdn-hz.robomaster.com/documents/935c504aecb741521451469256431010.pdf
+10. https://github.com/illini-robomaster/iRM_Embedded_2020
+11. RTOS info: https://www.keil.com/pack/doc/CMSIS/RTOS/html/group__CMSIS__RTOS.html
 ## Reglas:
 
 - Estamos creando un folder por cada tema.
@@ -40,6 +41,8 @@ En general, se divide en los siguientes areas
         - Set up guides
 
 Cada uno puede tener lo que sea.
+
+
 
 ## Dentro de cada documento:
 
@@ -66,8 +69,8 @@ https://www.youtube.com/watch?v=rXGE4tEj5IM
 **.pdb files** _files_ files. 
 **.xml files** _insert_ files. 
 **.xaml files** _insert_ files. 
-**.ioc files** _insert_ files. 
-**.bat files** _insert_ files. 
+**.ioc files** According to: https://file.org/extension/ioc, specify the which app can use the different files. 
+**.bat files** batch file. Contains executable commands for Windows' Console.  https://www.computerhope.com/jargon/b/batchfil.htm. 
 **CMOS** 
 **RTOS:** Real Time Operating Systems
 **G++** Tool to compile C/C++ programs

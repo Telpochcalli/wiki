@@ -8,7 +8,7 @@
 1. `Power out` Son los que estan a un lado del power in, son 3, y don 24V, tambien hay uno de 5V abajo.
 1. Los `pines` que estan a un lado del powerport, son pines que puedes tener como costum I/O
 1. 7 `PWM`
-1. `USB` para conectar periferios
+1. `USB` para conectar perifericos
 1. `SWD`, para actualizar firmware
 1. Tiene 2 puertos de `CAN`, aunque parezcan 4, para que tengamos un ligar donde cerrar el CAN
 1. Donde dice RST es para reiniciar el board
