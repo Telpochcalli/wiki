@@ -49,6 +49,7 @@
 
 * STM32CubeProgrammer
 * STM32CubeMX
+* STM32IDE (Can save you a lot of time when installing packages, but I still don't know how to use it :D)
 
 * Make sure the ST-Link/J-Link firmware is updated  (USB stick or box). 
     * Check for configuration settings: https://www.st.com/resource/en/user_manual/cd00262073-stm32-stlink-utility-software-description-stmicroelectronics.pdf

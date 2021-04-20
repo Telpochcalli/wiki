@@ -20,9 +20,6 @@ Esos links son referencias a otras documentaciones para poder hacer cosas mas ch
     * https://github.com/RoboMaster/RoboRTS-Firmware/blob/icra2021/doc/en/protocol.md
 1. Ejemplos de como programar algunas cosas: https://github.com/RoboMaster/Development-Board-C-Examples (los programas si estan chidos, pero el resto como que ni idea de que esta pasando)
 
-1. Docs de como desarroyar par RM: https://robomaster-dev.readthedocs.io/en/latest/
-1. Descargar el Python dev env y las cosas: https://robomaster-dev.readthedocs.io/en/latest/python_sdk/installs.html (no por nada, pero Linux y MacOS es millones de veces mas facil, quiza quieran usar o Linux o Mac o WSL)
-
 1. Battery use information under the name "Intelligent Flight Battery Guidelines": https://cdn-hz.robomaster.com/documents/935c504aecb741521451469256431010.pdf
 
 1. Team iRM Guide: https://github.com/illini-robomaster/iRM_Embedded_2020
@@ -76,18 +73,22 @@ Gracias UwU. 🐉
     It contains administrative information about how to get started with a RM team, no actual code. Refers to sites and topics to learn for the robot's development. 
     Must be build by Sphinx (Python). Written in **Chinese**  
 
+1. Docs de como desarroyar par RM S1 Robot (Toy): 
+    * https://robomaster-dev.readthedocs.io/en/latest/
+    * Descargar el Python dev env y las cosas: https://robomaster-dev.readthedocs.io/en/latest/python_sdk/installs.html (no por nada, pero Linux y MacOS es millones de veces mas facil, quiza quieran usar o Linux o Mac o WSL)
+
 ## Vocabulary and other stuff:
 https://www.youtube.com/watch?v=rXGE4tEj5IM
 
 
-**.bin files** Binary files. 
-**.dll files** _insert_ files. 
-**.pdb files** _files_ files. 
-**.xml files** _insert_ files. 
-**.xaml files** _insert_ files. 
-**.ioc files** According to: https://file.org/extension/ioc, specify the which app can use the different files. 
-**.bat files** batch file. Contains executable commands for Windows' Console.  https://www.computerhope.com/jargon/b/batchfil.htm. 
-**CMOS** 
-**RTOS:** Real Time Operating Systems
-**G++** Tool to compile C/C++ programs
-**Gdb** Tool to debug C/C++ programs
+* **.bin files** Binary files. 
+* **.dll files** _insert_ files. 
+* **.pdb files** _files_ files. 
+* **.xml files** _insert_ files. 
+* **.xaml files** _insert_ files. 
+* **.ioc files** According to: https://file.org/extension/ioc, specify the which app can use the different files. 
+* **.bat files** batch file. Contains executable commands for Windows' Console.  https://www.computerhope.com/jargon/b/batchfil.htm. 
+* **CMOS** 
+* **RTOS:** Real Time Operating Systems
+* **G++** Tool to compile C/C++ programs
+* **Gdb** Tool to debug C/C++ programs
