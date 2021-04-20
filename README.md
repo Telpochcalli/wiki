@@ -33,6 +33,7 @@ Esos links son referencias a otras documentaciones para poder hacer cosas mas ch
 1. RT-thread: https://www.rt-thread.org/document/site/tutorial/nano/nano-port-cube/an0041-nano-port-cube/ (No es necesario, es un ejemplo de desarrollo)
 1. Got many resources from this blog: https://blog.csdn.net/qq_35739721/article/details/105357480
 1. J-Link manuals: https://www.segger.com/downloads/jlink/
+1. BSP lib: https://github.com/illini-robomaster/iRM_Embedded_Libraries/tree/master/BSP
 
 ## Reglas:
 
