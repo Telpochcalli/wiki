@@ -44,7 +44,7 @@ Terminal text editors, are just like Word but with no interface. They are useful
 
 ### Nano
 To be honest, [Nano](https://www.nano-editor.org/) is the easiest one to get started with. 
-<img src="imgSuggTools/RM_Nano.png" alt="Nano preview" />
+<img src="imgSuggTools/RM_Nano.PNG" alt="Nano preview" />
 
 Other links: 
 * https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/
@@ -53,4 +53,4 @@ Other links:
 
 ### Vim
 It has a learning curve of it's own. You can get better at it with the help of [This site](https://www.openvim.com/), or by typing `vimtutorial` in a Linux terminal. 
-<img src="imgSuggTools/RM_vim.png" alt="Vim preview" />
+<img src="imgSuggTools/RM_vim.PNG" alt="Vim preview" />
