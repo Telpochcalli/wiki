@@ -91,3 +91,6 @@ https://www.youtube.com/watch?v=rXGE4tEj5IM
 * **RTOS:** Real Time Operating Systems
 * **G++** Tool to compile C/C++ programs
 * **Gdb** Tool to debug C/C++ programs
+https://developer.arm.com/documentation/ddi0314/h/debug-access-port/swj-dp/jtag-and-swd-interface
+
+https://www.freertos.org/FreeRTOS-quick-start-guide.html
