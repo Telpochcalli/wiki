@@ -1,8 +1,51 @@
-# Notes
-Aqui tenemos todas las notas de como se puede programar, tecnicamente un Manuel para el desarrollo de Embedded Systems en Robomaster.
-Este contiene PDF's y ReadMes para establecer los detalles de cada parte y su integración en el sistema. Además, funciona como back-up de información que puede no estar dispobible en un futuro. 
+# Beforehand
 
-**El cotenido debe estar en inglés.**
+Hi and welcome. 
+
+This md was introduced to make ir easier to read the docs, so if you have no idea what is happening, you came to the right place.
+
+There is an index don below if you need help navigating. **Content should be in english.**
+
+In this repository you will fin a guide to develop code in Telpochcalli. Appart from that we have a handfull of current robomaster documentation as a back-up.
+
+# Index
+
+## Documentation 
+    There is a lot of robomasters documentation available in PDFs, we have gathered the most important and you can watch them in display under
+- [All the PDF][PDFs]
+  
+## Embedded systems
+- [Dev board type C](Embedded%20Systems/DevBoards/Type%20C/DevBoardTypeC.md)
+- [Motor guide](Embedded%20Systems/Motors/Motors.md)
+
+## Get started 
+
+- [Get started Guide][docGuide]
+
+## Suggested tools
+
+- [Linux intro][LinuxIntro]
+- [Linux for noobs](linux%20for%20noobs.md)
+- [Linux's terminal][LinuxTerminal]
+
+
+# Structure
+
+Content distribution:
+- Embedded Systems
+    - Actuator control.
+        - Datasheets
+        - Manuals
+        - Libraries
+        - Tips and handful more documentation.
+    - Sensors
+        - Datasheets
+        - Libreries
+        - Tips and handful more documentation.
+- Communication
+    - Protocols
+        - Set up guides
+
 
 ## Links utiles
 
@@ -32,30 +75,12 @@ Esos links son referencias a otras documentaciones para poder hacer cosas mas ch
 1. J-Link manuals: https://www.segger.com/downloads/jlink/
 1. BSP lib: https://github.com/illini-robomaster/iRM_Embedded_Libraries/tree/master/BSP
 
-## Reglas:
+## Rules:
 
-- Estamos creando un folder por cada tema.
-- Se pueden crear subfolders para subtemas.
-- Cualquier cosa pregunten a @JorgePerC.
-
-En general, se divide en los siguientes areas
-- Embedded Systems
-    - Control de acuadores.
-        - Datasheets
-        - Manuales
-        - Librerías
-        - Documentación propia y tips.
-    - Implementación sensores
-        - Datasheets
-        - Librerías
-        - Documentación propia y tips.
-- Communication
-    - Protocols
-        - Set up guides
-
-Cada uno puede tener lo que sea.
-
-
+- Folder per topic.
+  - Create as many sub-folders as necesary.
+- If you have questions, ask @JorgePerC.
+- Content in
 
 ## Dentro de cada documento:
 
