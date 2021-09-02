@@ -25,7 +25,7 @@ In this repository you will fin a guide to develop code in Telpochcalli. Appart 
 ## Suggested tools
 
 - [Linux intro][LinuxIntro]
-- [Linux for noobs](linux%20for%20noobs.md)
+- [Linux for noobs](Linux4Noobs.md)
 - [Linux's terminal][LinuxTerminal]
 
 
