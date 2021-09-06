@@ -24,6 +24,7 @@ you can open the Ubuntu terminal and start setting it up.
 3. Download and install [VSCode](https://code.visualstudio.com/download):
 
 **If you have VSCode already installed you can skip this step.**
+
 Too make everything easier we are going to use VSCode in cojunction with
 the Ubuntu terminal, that's why having VSCode installed in your computer
 is very important.
