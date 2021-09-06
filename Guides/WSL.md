@@ -5,15 +5,17 @@ In this guide we will be reviewing how to download, install and setup
 
 1. Enable WSL for Windows:
 
-- To do so follow [this video](https://www.youtube.com/watch?v=n-J9438Mv-s)
-- And if it is not clear enough compliment it with [this guide](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10) 
+You need to do a series of step to enable the linux terminal in you Windows computer;
+
+- To do so follow [this video](https://www.youtube.com/watch?v=n-J9438Mv-s) up to timestamp 4:25.
+- And if it is not clear enough compliment it with [this guide](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10).
 
 *You might need to restart your computer multiple times to make sure you
 have installed everything correctly.
 
 2. Update Ubuntu terminal: 
 
-Once you succesfully follow the steps of the video and guide of step 1
+Once you succesfully follow the steps of the video and guide of **step 1**
 you can open the Ubuntu terminal and start setting it up.
 
 - You might need to update it to be able too run commands so type
@@ -38,3 +40,5 @@ starting on **step N° 7.**.
 - In **step N° 13.** you can check these [basic commands in linux](https://www.hostinger.com/tutorials/linux-commands) to make the changing of directories
 easier.
 - In **step N° 13.** if you are having trouble unzipping the file through the temrinal you can always do it in your desktop or downloaded files.
+- In **step N° 14.** you can't just copy the your path directly because mainly the slashes are the opposite way, so it is recommended to get to it by `cd` in Ubuntu
+terminal.
