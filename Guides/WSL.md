@@ -34,7 +34,7 @@ is very important.
 
 After you succesfully download VSCode you can continue setting up your 
 terminal following [this link](https://gitlab.com/aruw/controls/taproot/-/wikis/Windows-WSL-Setup)
-starting on **step N° 7.**.
+starting on **step N° 7.**
 
 **¡¡Before following "this link" read step 5!!**
 
