@@ -36,11 +36,16 @@ After you succesfully download VSCode you can continue setting up your
 terminal following [this link](https://gitlab.com/aruw/controls/taproot/-/wikis/Windows-WSL-Setup)
 starting on **step N° 7.**.
 
+**¡¡Before following "this link" read step 5!!**
+
 5. Notes to make following [this link](https://gitlab.com/aruw/controls/taproot/-/wikis/Windows-WSL-Setup) easier:
 
-- In **step N° 13.** make sure your download ["gcc-arm-none-eabi-9-2020-q2-update-x86_64-linux.tar.bz2"](https://developer.arm.com/-/media/Files/downloads/gnu-rm/10-2020q2/gcc-arm-none-eabi-10-2020-q2-preview-x86_64-linux.tar.bz2?revision=d78e0fa5-cb1e-47d6-84ce-88f3139deee9&hash=9FA7B58CA538BE61178E11BC0C294667F0AC3A66) not the latest version for your computer
-- In **step N° 13.** you can check these [basic commands in linux](https://www.hostinger.com/tutorials/linux-commands) to make the changing of directories
-easier.
-- In **step N° 13.** if you are having trouble unzipping the file through the temrinal you can always do it in your desktop or downloaded files.
-- In **step N° 14.** you can't just copy the your path directly because mainly the slashes are the opposite way, so it is recommended to get to it by `cd` in Ubuntu
-terminal.
+- In **step N° 13.** make sure your download ["gcc-arm-none-eabi-9-2020-q2-update-x86_64-linux.tar.bz2"](https://developer.arm.com/-/media/Files/downloads/gnu-rm/10-2020q2/gcc-arm-none-eabi-10-2020-q2-preview-x86_64-linux.tar.bz2?revision=d78e0fa5-cb1e-47d6-84ce-88f3139deee9&hash=9FA7B58CA538BE61178E11BC0C294667F0AC3A66) not the latest version for your computer.
+
+- In **step N° 13.** you can check these [basic commands in linux](https://www.hostinger.com/tutorials/linux-commands) to make the changing of directories easier.
+
+- In **step N° 13.** to reach you desktop use the command `cd /mnt/c/Users/your_user/Desktop`.
+
+- In **step N° 13.** if you are having trouble unzipping the file through the terminal you can always do it in your desktop or downloaded files.
+
+- In **step N° 14.** you can't just copy your path directly mainly because the slashes are the opposite way, so it is recommended to get to it by using `cd` in Ubuntu terminal.
