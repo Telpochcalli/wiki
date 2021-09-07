@@ -51,4 +51,4 @@ starting on **step N° 7.**
 
 - In **step N° 14.** you can't just copy your path directly mainly because the slashes are the opposite way, so it is recommended to get to it by using `cd` in Ubuntu terminal.
 
--In **step N° 21 and 22** you need access to download the files.
+- In **step N° 21 and 22** you need access to download the files.
