@@ -18,7 +18,7 @@ have installed everything correctly.
 Once you succesfully follow the steps of the video and guide of **step 1**
 you can open the Ubuntu terminal and start setting it up.
 
-- You might need to update it to be able too run commands so type
+- You might need to update it to be able to run commands so type
 `sudo apt-get update && apt-get update`.
 
 3. Download and install [VSCode](https://code.visualstudio.com/download):
