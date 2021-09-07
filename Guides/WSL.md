@@ -54,4 +54,8 @@ starting on **step N° 7.**
 - In **step N° 15.** if you can't clone the repository from the terminal, clone it from VSCode entering the same text but in the
 VSCode terminal.
 
+- In **step N° 19** [you can use this online extractor](https://extract.me/es/).
+
+-In **step N° 21** you can follow step N°7 of [this guide](https://gitlab.com/aruw/controls/taproot/-/wikis/Debian-Linux-Setup).
+
 - In **step N° 21 and 22** you need access to download the files.
