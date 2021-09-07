@@ -5,7 +5,7 @@ In this guide we will be reviewing how to download, install and setup
 
 1. Enable WSL for Windows:
 
-You need to do a series of steps to enables the linux terminal in you Windows computer;
+You need to do a series of steps to enables the linux terminal in your Windows computer;
 
 - To do so follow [this video](https://www.youtube.com/watch?v=n-J9438Mv-s) up to timestamp 4:25.
 - And if it is not clear enough compliment it with [this guide](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10).
