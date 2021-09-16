@@ -2,7 +2,7 @@
 
 In this guide we will be reviewing what **SSH Protocol** is,how it works and some typical uses.
 
-## SSH (Secure Shell) and SSH Protocol
+## SSH (Secure Shell) and SSH Protocol:
 
 SSH, known as Secure Shell or Secure Socket Shell, is a network protocol that gives users a secure way to access a computer over an unsecured network. SSH also can refer to the collection of software utilities that implement the SSH protocol.
 
@@ -32,9 +32,12 @@ Just like seen in the image.
 
 Since creating an SSH connection requires both a client and a server component, you need to make sure they are installed on the local and the remote machine, respectively.
 
-To which you can you can follow [this guide](https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows) from step 3 to 6.
+To which if you are on windows you can follow [this video](https://www.youtube.com/watch?v=7wVX-9XkasM) and then to check follow [this guide](https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows) specifically step 3.
 
-Once you have done this connecting to a server is very simple you just type this command in your terminal:
+Once you have done this connecting to your server is very simple you just type this command in your terminal:
+`ssh UserName@localhost` (Only if you followed the video)
+
+And you can connect to any server typing this commnado in your terminal:
 `ssh UserName@SSHserver.example.com`
 
 This command will cause the client to attempt to connect to the server named server.example.com, using the user ID UserName. If this is the first time negotiating a connection between the local host and the server, the user will be prompted with the remote host's public key fingerprint and prompted to connect, despite there having been no prior connection:
@@ -45,6 +48,19 @@ This command will cause the client to attempt to connect to the server named ser
 
 Answering yes to the prompt will cause the session to continue, and the host key will be stored in the local system's known_hosts file. This is a hidden file, stored in a hidden directory, called /.ssh/known_hosts, in the user's home directory. Once the host key has been stored in the known_hosts file, the client system can connect directly to that server again without need for any approvals.
 
-## SSH Protocol Typical Uses
+## SSH Protocol Typical Uses:
 
+Summarizing the SSH Protocol is used for:
+
+- Providing secure access for users and automated processes.
+
+- Interactive and automated file transfers.
+
+- Issuing remote commands.
+
+- Managing network infrastructure and other mission-critical system components.
+
+## Sources:
+
+If you want more information you can follow [this link](https://searchsecurity.techtarget.com/definition/Secure-Shell) or [this guide](https://www.ssh.com/academy/ssh/protocol#how-does-the-ssh-protocol-work).
 
