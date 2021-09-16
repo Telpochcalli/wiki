@@ -28,11 +28,23 @@ In order to establish an SSH connection, you need two components: **a client** a
 
 - On the server’s side, there is a component called an **SSH daemon** that is constantly listening to a specific TCP/IP port for possible client connection requests. Once a client initiates a connection, the SSH daemon will respond with the software and the protocol versions it supports and the two will exchange their identification data.
 
-Just like seen in the image
+Just like seen in the image.
 
-The default SSH protocol version for SSH server and SSH client communication is version 2.
+Since creating an SSH connection requires both a client and a server component, you need to make sure they are installed on the local and the remote machine, respectively.
 
-It's very simple you just type this command in your terminal:
+To which you can you can follow [this guide](https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows) from step 3 to 6.
+
+Once you have done this connecting to a server is very simple you just type this command in your terminal:
 `ssh UserName@SSHserver.example.com`
 
 This command will cause the client to attempt to connect to the server named server.example.com, using the user ID UserName. If this is the first time negotiating a connection between the local host and the server, the user will be prompted with the remote host's public key fingerprint and prompted to connect, despite there having been no prior connection:
+
+`The authenticity of host 'sample.ssh.com' cannot be established.` 
+`DSA key fingerprint is 01:23:45:67:89:ab:cd:ef:ff:fe:dc:ba:98:76:54:32:10.`
+`Are you sure you want to continue connecting (yes/no)?`
+
+Answering yes to the prompt will cause the session to continue, and the host key will be stored in the local system's known_hosts file. This is a hidden file, stored in a hidden directory, called /.ssh/known_hosts, in the user's home directory. Once the host key has been stored in the known_hosts file, the client system can connect directly to that server again without need for any approvals.
+
+## SSH Protocol Typical Uses
+
+
