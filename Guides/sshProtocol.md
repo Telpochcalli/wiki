@@ -18,7 +18,7 @@ For more information you can watch [this video](https://www.youtube.com/watch?v=
 
 ## How SSH Protocols work
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Flinuxapt.com%2Fblog%2Flinux-unix-generating-ssh-keys&psig=AOvVaw2U1SW43RrW6s1_ZpMXPJEs&ust=1631912460137000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJClwuaxhPMCFQAAAAAdAAAAABAT)
+![image](https://i0.wp.com/iot4beginners.com/wp-content/uploads/2020/09/SSH-Protocol-1.png?resize=966%2C381&ssl=1)
 
 As the image shows it is a secure way that a computer can connect to a server, but how do you connect through the terminal.
 
