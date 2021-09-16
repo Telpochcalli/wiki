@@ -37,7 +37,7 @@ To which if you are on windows you can follow [this video](https://www.youtube.c
 Once you have done this connecting to your server is very simple you just type this command in your terminal:
 `ssh UserName@localhost` (Only if you followed the video)
 
-And you can connect to any server typing this commnado in your terminal:
+And you can connect to any server typing this commnad in your terminal:
 `ssh UserName@SSHserver.example.com`
 
 This command will cause the client to attempt to connect to the server named server.example.com, using the user ID UserName. If this is the first time negotiating a connection between the local host and the server, the user will be prompted with the remote host's public key fingerprint and prompted to connect, despite there having been no prior connection:
