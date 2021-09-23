@@ -112,3 +112,17 @@ Since there is no clock signal in Asynchronous operation, one pin can be used fo
 Transmission and reception can be independently enabled. However, when the serial port is enabled, the USART will control both pins and one cannot be used for general purpose I/O (input/output) when the other is being used for transmission or reception.
 
 **The USART is most commonly used in the asynchronous mode.**
+
+If you want more detailed information on how to use a USART in Asynchronous mode check [this link](http://ww1.microchip.com/downloads/en/devicedoc/usart.pdf)
+
+As we can see the first major difference between a USART and a UART is the way in which the serial data may be clocked.
+
+A UART generates its data clock internally to the microcontroller and synchronizes that clock with the data stream by using the start bit transition.
+
+A USART, on the other hand, can be set up to run in synchronous mode. In this mode the sending USART will generate a clock that the receiving one can recover from the data stream without knowing the *baud rate* ahead of time.
+
+The second major difference between a USART and a UART is the number of protocols the microchip can support. 
+
+A UART is simple and only offers a few options from its base format, such as number of stop bits and even or odd parity.
+
+A USART is more complex and can generate data in a form corresponding to many different standard protocols such as IrDA, LIN, Smart Card, Driver Enable for RS-485 interfaces, and Modbus, to name a few. A USART also has the same asynchronous capabilities as a UART, that is, a USART can generate the same type of serial data.
