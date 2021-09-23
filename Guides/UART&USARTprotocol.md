@@ -115,6 +115,8 @@ Transmission and reception can be independently enabled. However, when the seria
 
 If you want more detailed information on how to use a USART in Asynchronous mode check [this link](http://ww1.microchip.com/downloads/en/devicedoc/usart.pdf)
 
+
+
 As we can see the first major difference between a USART and a UART is the way in which the serial data may be clocked.
 
 A UART generates its data clock internally to the microcontroller and synchronizes that clock with the data stream by using the start bit transition.
