@@ -111,9 +111,9 @@ Since there is no clock signal in Asynchronous operation, one pin can be used fo
 
 Transmission and reception can be independently enabled. However, when the serial port is enabled, the USART will control both pins and one cannot be used for general purpose I/O (input/output) when the other is being used for transmission or reception.
 
-If you want more detailed information on how to use a USART in Asynchronous mode check [this link](http://ww1.microchip.com/downloads/en/devicedoc/usart.pdf).
-
 **The USART is most commonly used in the asynchronous mode.**
+
+If you want more detailed information on how to use a USART in Asynchronous mode check [this link](http://ww1.microchip.com/downloads/en/devicedoc/usart.pdf).
 
 ### Final Conclusions:
 
