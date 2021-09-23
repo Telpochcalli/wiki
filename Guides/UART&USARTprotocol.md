@@ -24,7 +24,26 @@ A USART (Universal Synchronous/Asynchronous Receiver/Transmitter) is a microchip
 
 ### USART Communication:
 
-Like a UART, a USART provides the computer with the interface necessary for communication with modems and other serial devices. However, unlike a UART, a USART offers the option of synchronous mode. In program-to-program communication, the synchronous mode requires that each end of an exchange respond in turn without initiating a new communication. Asynchronous operation means that a process operates independently of other processes.
+Like a UART, a USART provides the computer with the interface necessary for communication with modems and other serial devices. However, unlike a UART, a USART offers the option of synchronous mode. In program-to-program communication, the synchronous mode requires that each end of an exchange to respond in turns without initiating a new communication. Asynchronous operation means that a process operates independently of other processes.
+
+### Synchronous and Asynchronou mode:
+
+- #### Synchronous mode:
+
+Synchronous operation uses a clock and data line.
+
+Synchronous mode requires both data and a clock.
+
+In synchronous mode, the data is transmitted at a fixed rate.
+
+Synchronous data is normally transmitted in the form of blocks.
+
+Synchronous mode allows for a higher DTR (data transfer rate)
+
+ while there is no separate clock accompanying the data for Asynchronous transmission. Since there is no clock signal in asynchronous operation, one pin can be used for transmission and another pin can be used for reception. Both transmission and
+reception can occur at the same time, this is known as full duplex operation.
+Transmission and reception can be independently enabled. However, when the serial port is enabled, the USART will control both pins and one cannot be used for general purpose I/O (input/output) when the other is being used for transmission or reception.
+The USART is most commonly used in the asynchronous mode.
 
 Practical differences between synchronous mode (which is possible only with a USART) and asynchronous mode (which is possible with either a UART or a USART) can be outlined as follows:
 
