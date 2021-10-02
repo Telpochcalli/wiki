@@ -19,9 +19,7 @@ So you can say the control unit controls the flow of data within the system.
 
 Furthermore, the control unit controls and monitors communications between the hardware attached to the computer. It controls the input and output of data, checks that signals have been delivered successfully, and makes sure that data goes to the correct place at the correct time.
 
-The diagrams below show how it works in a more visual way:
-
-![image](https://cdn.britannica.com/s:690x388,c:crop/44/7744-050-6E0A2699/organization-computer.jpg)
+The diagram below show how it works in a more visual way:
 
 ![image2](https://www.computerhope.com/jargon/m/machine-cycle.png)
 
