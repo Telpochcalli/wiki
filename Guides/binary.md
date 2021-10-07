@@ -54,6 +54,7 @@ Procedure:
 ![image](binary_images/binary_8.png)
 
 Once we have reached the quotient with value 1, we order the values of the reminders from last lo first. 
+
 ### Hexadecimal System
 
 This numerical system is also useful for computer science. Therefore, this system and the transformation from binary to hexadecimal will be explained.
