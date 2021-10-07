@@ -76,6 +76,8 @@ To determine the value in decimal:
 
 Begin by transforming the number in base 16 to base 10, then transform the number from base 10 to base 2 as already shown.
 
+#### Transforming base 2 to base 16
+  
 Take the number: 11000
 
 1. Transform to base 10 
