@@ -8,6 +8,8 @@ Well, communication between electronic devices can be compared in a way to human
 
 Here, we will introduce the basics of protocols to then pass on to some of the most common protocols: Serial Peripheral Interface (SPI), Inter-Integrated Circuit (I2C), Universal Asynchronous Receiver/Transmitter (UART) and Universal Synchronous/Asynchronous Receiver/Transmitter (USART).
 
+![image](https://www.mbtechworks.com/hardware/imgs/uart-spi-i2c.png)
+
 These are quite a bit slower than protocols that may sound more familiar to you like USB, ethernet, Bluetooth, and WiFi, but they’re a lot simpler and use less hardware and system resources. These protocols are ideal for communication between microcontrollers and between microcontrollers and sensors where large amounts of high speed data don’t need to be transferred.
 
 Summarizing:
