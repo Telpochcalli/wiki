@@ -5,7 +5,7 @@ The binary numerical system is of many numerical systems. It is commonly used in
 ### Numerical Systems 
 
 The decimal numerical system is the one we are most familiar with; we use it in our everyday life and we learn it since we are little. The decimal system, as its name mentions it, is a positional numerical system with base 10, which means it consist of 10 cyphers: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. A positional system means that depending on the position where the cypher is written it will be assigned a different value, for example:
-Take the number 1230_10 (The subindex points out the base in which the number is written)
+Take the number $1230_10$ (The subindex points out the base in which the number is written)
 
 ![image](binary_images/bianry_1.png)
 
