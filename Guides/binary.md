@@ -7,12 +7,12 @@ The binary numerical system is of many numerical systems. It is commonly used in
 The decimal numerical system is the one we are most familiar with; we use it in our everyday life and we learn it since we are little. The decimal system, as its name mentions it, is a positional numerical system with base 10, which means it consist of 10 cyphers: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. A positional system means that depending on the position where the cypher is written it will be assigned a different value, for example:
 Take the number 1230_10 (The subindex points out the base in which the number is written)
 
-![image] (binary_images/bianry_1.png)
+![image](binary_images/bianry_1.png)
 
 Notice that as the number is written one position further to the left its value increases by 10^(+1). To determine the value of the expression, based on the position of the number, is summed to the other:
 
-![image] (binary_images/bianry_2.png)
-![image] (binary_images/bianry_3.png)
+![image](binary_images/bianry_2.png)
+![image](binary_images/bianry_3.png)
 
 This process might seem natural as we have been using it since we were little. However, there are plenty more numerical systems that are used for different purposes, for example the binary system.
 
@@ -37,9 +37,9 @@ To transform a binary number to a decimal number, the value of each cypher is de
 
 For the number: $0101_2$
 
-![image] (binary_images/bianry_6.png)
+![image](binary_images/bianry_6.png)
 
-![image] (binary_images/bianry_7.png)
+![image](binary_images/bianry_7.png)
 
 #### Transforming from base 10 to base 2
 
@@ -49,7 +49,7 @@ The procedure consists of dividing the decimal number by two until the value of 
 
 Procedure: 
 
-![image] (binary_images/bianry_8.png)
+![image](binary_images/bianry_8.png)
 
 Once we have reached the quotient with value 1, we order the values of the reminders from last lo first. 
 ### Hexadecimal System
@@ -64,11 +64,11 @@ A number written in hexadecimal would look like: $3E8_16$
 
 Take the number $4CE_16$
 
-![image] (binary_images/bianry_9.png)
+![image](binary_images/bianry_9.png)
 
 To determine the value in decimal:
 
-![image] (binary_images/bianry_10.png)
+![image](binary_images/bianry_10.png)
 
 #### Transforming base 16 to base 2
 
@@ -78,10 +78,10 @@ Take the number: 11000
 
 1. Transform to base 10 
 
-![image] (binary_images/bianry_12.png)
-![image] (binary_images/bianry_11.png)
+![image](binary_images/bianry_12.png)
+![image](binary_images/bianry_11.png)
 
 $11000_2$ = $24_10$
 
 2. Transform to base 16
-![image] (binary_images/bianry_13.png)
+![image](binary_images/bianry_13.png)
