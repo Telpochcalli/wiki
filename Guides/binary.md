@@ -5,7 +5,7 @@ The binary numerical system is of many numerical systems. It is commonly used in
 ### Numerical Systems 
 
 The decimal numerical system is the one we are most familiar with; we use it in our everyday life and we learn it since we are little. The decimal system, as its name mentions it, is a positional numerical system with base 10, which means it consist of 10 cyphers: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. A positional system means that depending on the position where the cypher is written it will be assigned a different value, for example:
-Take the number 1230 <sub>10 (The subindex points out the base in which the number is written)
+Take the number 1230 <sub>10</sub> (The subindex points out the base in which the number is written)
 
 ![image](binary_images/bianry_1.png)
 
@@ -35,7 +35,7 @@ For the binary system the values are assigned as follows:
 
 To transform a binary number to a decimal number, the value of each cypher is determined based on its position and summed to the other, for example: 
 
-For the number: 0101 <sub>2
+For the number: 0101 <sub>2</sub>
 
 ![image](binary_images/bianry_6.png)
 
@@ -43,7 +43,7 @@ For the number: 0101 <sub>2
 
 #### Transforming from base 10 to base 2
 
-To explain the procedure, we will be transforming 28 <sub>10
+To explain the procedure, we will be transforming 28 <sub>10</sub>
 
 The procedure consists of dividing the decimal number by two until the value of the quotient is 1. We will be paying close attention to the value of the reminder as it will be used further on to determine the value of the binary number.
 
@@ -62,7 +62,7 @@ A number written in hexadecimal would look like: 3E8 <sub>16
 
 #### Transforming base 16 to base 10
 
-Take the number 4CE <sub>16
+Take the number 4CE <sub>16</sub>
 
 ![image](binary_images/bianry_9.png)
 
@@ -81,7 +81,7 @@ Take the number: 11000
 ![image](binary_images/bianry_12.png)
 ![image](binary_images/bianry_11.png)
 
-11000 <sub>2 = 24 <sub>10
+11000 <sub>2</sub> = 24 <sub>10</sub>
 
 2. Transform to base 16
 ![image](binary_images/bianry_13.png)
