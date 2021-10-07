@@ -47,17 +47,49 @@ And if only one slave select pin is available, the slaves can be daisy-chained l
 
 ## Steps of the Communication:
 
-To begin SPI communication, the master must send the clock signal and select the slave by enabling the CS signal. Like we said chip select is an active low signal; hence, the master must send a logic 0 on this signal to select the slave. Both master and slave can send data at the same time via the MOSI and MISO lines respectively. During SPI communication, the data is simultaneously transmitted (shifted out serially onto the MOSI/SDO bus) and received (the data on the bus (MISO/SDI) is sampled or read in). 
+To begin SPI communication, the master must send the clock signal and select the slave by enabling the CS signal. Like we said chip select is an active high signal; hence, the master must send a low signal to select the slave. Both master and slave can send data at the same time via the MOSI and MISO lines respectively. 
 
+- Steps:
 
 1. The master outputs the clock signal.
 
+![image](https://www.circuitbasics.com/wp-content/uploads/2016/01/Introduction-to-SPI-Data-Transmission-Diagram-Clock-Signal-768x198.png)
+
 2. The master switches the SS/CS pin to a low voltage state, which activates the slave.
+
+![image2](https://www.circuitbasics.com/wp-content/uploads/2016/01/Introduction-to-SPI-Data-Transmission-Diagram-Slave-Select-Activation-768x198.png)
 
 3. The master sends the data one bit at a time to the slave along the MOSI line. The slave reads the bits as they are received.
 
+![image3](https://www.circuitbasics.com/wp-content/uploads/2016/01/Introduction-to-SPI-Data-Transmission-Diagram-Master-to-Slave-Data-Transfer-768x198.png)
+
 4. If a response is needed, the slave returns data one bit at a time to the master along the MISO line. The master reads the bits as they are received.
 
+![image4](https://www.circuitbasics.com/wp-content/uploads/2016/01/Introduction-to-SPI-Data-Transmission-Diagram-Slave-to-Master-Data-Transfer-768x198.png)
+
+## Advantages and Disadvantages:
+
+**Advantages**
+- No start and stop bits, so the data can be streamed continuously without interruption.
+
+- No complicated slave addressing system like I2C.
+
+- Higher data transfer rate than I2C.
+
+- Separate MISO and MOSI lines, so data can be sent and received at the same time.
+
+**DisadvantagesS**
+
+- Uses four wires (I2C and UARTs use two).
+
+-No acknowledgement that the data has been successfully received (I2C has this).
+
+- No form of error checking like the parity bit in UART
+Only allows for a single master.
+
+## References:
+
+Most of the information and images where taken from [here](https://www.circuitbasics.com/basics-of-the-spi-communication-protocol/).
 
 
 

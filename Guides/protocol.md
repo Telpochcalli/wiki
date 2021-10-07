@@ -24,7 +24,7 @@ Intra system protocols are used when we want to communicate two devices within t
 
 ## Serial vs. Parallel Communication:
 
-Electronic devices talk to each other by sending bits of data through wires physically connected between devices. A bit is like a letter in a word, except instead of the 26 letters (in the English alphabet), a bit is binary and can only be a 1 or 0 (for more information  visit our binary guide where we cover this in depth). Bits are transferred from one device to another by quick changes in voltage. In a system operating at 5 V, a 0 bit is communicated as a short pulse of 0 V, and a 1 bit is communicated by a short pulse of 5 V.
+Electronic devices talk to each other by sending bits of data through wires physically connected between devices. A bit is like a letter in a word, except instead of the 26 letters (in the English alphabet), a bit is binary and can only be a 1 or 0 (for more information  visit our [binary guide](https://github.com/Telpochcalli/wiki/blob/Guides/Guides/binary.md) where we cover this in depth). Bits are transferred from one device to another by quick changes in voltage. In a system operating at 5 V, a 0 bit is communicated as a short pulse of 0 V, and a 1 bit is communicated by a short pulse of 5 V.
 
 The bits of data can be transmitted either in parallel or serial form.
 In parallel communication, the bits of data are sent all at the same time, each through a separate wire. The following diagram shows the parallel transmission of the letter “C” in binary (01000011):

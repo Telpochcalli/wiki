@@ -58,6 +58,7 @@ To signal the end of the data packet, the sending UART drives the data transmiss
 ### Advantages and Disadvantages of UARTs:
 
 - Advantages:
+
 Only uses two wires.
 
 No clock signal is necessary.
