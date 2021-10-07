@@ -29,7 +29,7 @@ In a computer, the CPU (Central Processing Unit) is the one in charge of interpr
 
 The ALU is represented by the following symbol:
 
-![image] (https://ati.ttu.ee/IAY0340/labs/Tutorials/SystemC/ALU/ALU.png)
+![image](https://ati.ttu.ee/IAY0340/labs/Tutorials/SystemC/ALU/ALU.png)
 
 The ALU is capable of performing these operations:
 
