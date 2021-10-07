@@ -31,7 +31,7 @@ We previously determine the different values for the positions of a base 10 syst
 
 For the binary system the values are assigned as follows: 
 
-![image] (binary_images/binary_5.png)
+![image](binary_images/binary_5.png)
 
 To transform a binary number to a decimal number, the value of each cypher is determined based on its position and summed to the other, for example: 
 
