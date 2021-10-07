@@ -78,10 +78,10 @@ Take the number: 11000
 
 1. Transform to base 10 
 
-![image](binary_images/binary_12.png)
 ![image](binary_images/binary_11.png)
+![image](binary_images/binary_10.png)
 
 11000 <sub>2</sub> = 24 <sub>10</sub>
 
 2. Transform to base 16
-![image](binary_images/binary_13.png)
+![image](binary_images/binary_12.png)
