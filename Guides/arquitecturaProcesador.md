@@ -23,8 +23,23 @@ The diagram below show how it works in a more visual way:
 
 ![image2](https://www.computerhope.com/jargon/m/machine-cycle.png)
 
+## ALU
 
-## ALU:
+In a computer, the CPU (Central Processing Unit) is the one in charge of interpretating and executing instructions. One of its various components is the ALU (Arithmetic Logic Unit). The Alu is the component in charge of performing logical operations. It receives two integer operands with which it performs the operation and returns the result of the operation. 
+
+The ALU is represented by the following symbol:
+
+![image] (https://ati.ttu.ee/IAY0340/labs/Tutorials/SystemC/ALU/ALU.png)
+
+The ALU is capable of performing these operations:
+
+1.	Addition. Adds A and B with carry-in or carry-out sum at Y.
+2.	Subtraction. Subtracts B from A or vice versa with the difference at Y and carry-in or carry-out.
+3.	Increment. Where A or B is increased by one and Y represents the new value.
+4.	Decrement. Where A or B is decreased by one and Y represents the new value.
+5.	AND. The bitwise logic AND of A and B is represented by Y.
+6.	OR. The bitwise logic OR of A and B is represented by Y.
+7.	Exclusive-OR. The bitwise logic XOR of A and B is represented by Y.
 
 
 
