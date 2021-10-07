@@ -5,7 +5,7 @@
 The **Central Procesing Unit**, known as **CPU** for short acts as the computers brain, this is because the CPU is the electronic circuit inside the computer that is tasked with doing all the instructions the users asks. Like basic 
 maths, logical comparisons and controling the input and output (I/O).
 
-Below you can see a simplified diagram descriping what the CPu contains. You can see that the arithmetic logit unit (ALU) and the control unit (CU) are contained inside de CPU as well as the register bank which in this diagram is represented by the memory unit, all of which we will explain with detail later.
+Below you can see a simplified diagram descriping what the CPU contains. You can see that the arithmetic logit unit (ALU) and the control unit (CU) are contained inside de CPU as well as the register bank which in this diagram is represented by the memory unit, all of which we will explain with detail later.
 
 ![image](https://computersciencewiki.org/images/1/1a/Cpu_diagram.png)
 
@@ -25,7 +25,7 @@ The diagram below show how it works in a more visual way:
 
 ## ALU
 
-In a computer, the CPU (Central Processing Unit) is the one in charge of interpretating and executing instructions. One of its various components is the ALU (Arithmetic Logic Unit). The Alu is the component in charge of performing logical operations. It receives two integer operands with which it performs the operation and returns the result of the operation. 
+Like said before, in a computer, the **CPU** (Central Processing Unit) is the one in charge of interpretating and executing instructions. One of its various components is the **ALU** (Arithmetic Logic Unit). The ALU is the component in charge of performing logical operations. It receives two integer operands with which it performs the operation and returns the result of the operation. 
 
 The ALU is represented by the following symbol:
 
