@@ -9,7 +9,7 @@ Take the number 1230 <sub>10 (The subindex points out the base in which the numb
 
 ![image](binary_images/bianry_1.png)
 
-Notice that as the number is written one position further to the left its value increases by 10^(+1). To determine the value of the expression, based on the position of the number, is summed to the other:
+Notice that as the number is written one position further to the left its value increases by 10 <sup>(+1). To determine the value of the expression, based on the position of the number, is summed to the other:
 
 ![image](./binary_images/bianry_2.png)
 ![image](binary_images/bianry_3.png)
@@ -35,7 +35,7 @@ For the binary system the values are assigned as follows:
 
 To transform a binary number to a decimal number, the value of each cypher is determined based on its position and summed to the other, for example: 
 
-For the number: $0101_2$
+For the number: 0101 <sub>2
 
 ![image](binary_images/bianry_6.png)
 
@@ -43,7 +43,7 @@ For the number: $0101_2$
 
 #### Transforming from base 10 to base 2
 
-To explain the procedure, we will be transforming $28_10$
+To explain the procedure, we will be transforming 28 <sub>10
 
 The procedure consists of dividing the decimal number by two until the value of the quotient is 1. We will be paying close attention to the value of the reminder as it will be used further on to determine the value of the binary number.
 
@@ -58,11 +58,11 @@ This numerical system is also useful for computer science. Therefore, this syste
 
 The hexadecimal system is a positional system, and it is composed of 16 cyphers: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F. In comparison to the decimal system, the cyphers A to F represent the decimal numbers: A = 10, B = 11, C = 12, D = 13, E = 14, F = 15
 
-A number written in hexadecimal would look like: $3E8_16$
+A number written in hexadecimal would look like: 3E8 <sub>16
 
 #### Transforming base 16 to base 10
 
-Take the number $4CE_16$
+Take the number 4CE <sub>16
 
 ![image](binary_images/bianry_9.png)
 
@@ -81,7 +81,7 @@ Take the number: 11000
 ![image](binary_images/bianry_12.png)
 ![image](binary_images/bianry_11.png)
 
-$11000_2$ = $24_10$
+11000 <sub>2 = 24 <sub>10
 
 2. Transform to base 16
 ![image](binary_images/bianry_13.png)
