@@ -66,11 +66,11 @@ A number written in hexadecimal would look like: 3E8 <sub>16
 
 Take the number 4CE <sub>16</sub>
 
-![image](binary_images/binary_9.png)
+![image](binary_images/binary_8.png)  
 
 To determine the value in decimal:
 
-![image](binary_images/binary_10.png)
+![image](binary_images/binary_9.png)
 
 #### Transforming base 16 to base 2
 
