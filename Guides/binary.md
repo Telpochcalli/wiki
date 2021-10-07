@@ -11,8 +11,8 @@ Take the number 1230 <sub>10</sub> (The subindex points out the base in which th
 
 Notice that as the number is written one position further to the left its value increases by 10 <sup>(+1). To determine the value of the expression, based on the position of the number, is summed to the other:
 
-![image](binary_images/bianry_2.png)
-![image](binary_images/bianry_3.png)
+![image](binary_images/binary_2.png)
+![image](binary_images/binary_3.png)
 
 This process might seem natural as we have been using it since we were little. However, there are plenty more numerical systems that are used for different purposes, for example the binary system.
 
@@ -27,19 +27,19 @@ As mentioned before, binary is a positional system so depending on the position 
 
 We previously determine the different values for the positions of a base 10 system: 
 
-![image](binary_images/bianry_4.png)
+![image](binary_images/binary_4.png)
 
 For the binary system the values are assigned as follows: 
 
-![image] (binary_images/bianry_5.png)
+![image] (binary_images/binary_5.png)
 
 To transform a binary number to a decimal number, the value of each cypher is determined based on its position and summed to the other, for example: 
 
 For the number: 0101 <sub>2</sub>
 
-![image](binary_images/bianry_6.png)
+![image](binary_images/binary_6.png)
 
-![image](binary_images/bianry_7.png)
+![image](binary_images/binary_7.png)
 
 #### Transforming from base 10 to base 2
 
@@ -49,7 +49,7 @@ The procedure consists of dividing the decimal number by two until the value of 
 
 Procedure: 
 
-![image](binary_images/bianry_8.png)
+![image](binary_images/binary_8.png)
 
 Once we have reached the quotient with value 1, we order the values of the reminders from last lo first. 
 ### Hexadecimal System
@@ -64,11 +64,11 @@ A number written in hexadecimal would look like: 3E8 <sub>16
 
 Take the number 4CE <sub>16</sub>
 
-![image](binary_images/bianry_9.png)
+![image](binary_images/binary_9.png)
 
 To determine the value in decimal:
 
-![image](binary_images/bianry_10.png)
+![image](binary_images/binary_10.png)
 
 #### Transforming base 16 to base 2
 
@@ -78,10 +78,10 @@ Take the number: 11000
 
 1. Transform to base 10 
 
-![image](binary_images/bianry_12.png)
-![image](binary_images/bianry_11.png)
+![image](binary_images/binary_12.png)
+![image](binary_images/binary_11.png)
 
 11000 <sub>2</sub> = 24 <sub>10</sub>
 
 2. Transform to base 16
-![image](binary_images/bianry_13.png)
+![image](binary_images/binary_13.png)
