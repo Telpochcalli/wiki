@@ -45,13 +45,12 @@ For the number: 0101 <sub>2</sub>
 
 To explain the procedure, we will be transforming 28 <sub>10</sub>
 
-![image](http://recursostic.educacion.es/secundaria/edad/4esotecnologia/quincena5/imagenes5/pasar_decimal_binario.gif)
-
 The procedure consists of dividing the decimal number by two until the value of the quotient is 1. We will be paying close attention to the value of the reminder as it will be used further on to determine the value of the binary number.
 
 Procedure: 
 
-![image](binary_images/binary_8.png)
+![image](http://recursostic.educacion.es/secundaria/edad/4esotecnologia/quincena5/imagenes5/pasar_decimal_binario.gif)
+
 
 Once we have reached the quotient with value 1, we order the values of the reminders from last lo first. 
 
