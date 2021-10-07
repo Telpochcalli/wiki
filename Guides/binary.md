@@ -11,7 +11,7 @@ Take the number 1230_10 (The subindex points out the base in which the number is
 
 Notice that as the number is written one position further to the left its value increases by 10^(+1). To determine the value of the expression, based on the position of the number, is summed to the other:
 
-![image](binary_images/bianry_2.png)
+![image](./binary_images/bianry_2.png)
 ![image](binary_images/bianry_3.png)
 
 This process might seem natural as we have been using it since we were little. However, there are plenty more numerical systems that are used for different purposes, for example the binary system.
