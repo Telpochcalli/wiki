@@ -21,6 +21,7 @@ In this repository you will fin a guide to develop code in Telpochcalli. Appart 
 ## Get started 
 
 - [Get started Guide][docGuide]
+- If you have problems mergergin code form your machine, [check this lik](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) to set up GitHub access tokens.
 
 ## Suggested tools
 
