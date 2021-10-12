@@ -44,3 +44,13 @@ The ALU is capable of performing these operations:
 
 
 ## Register Bank:
+Registers are used in computer systems as places to store a wide variety of data, such  as  addresses,  program  counters,  or  data  necessary  for  program  execution. In a simplified way,  a  register is  a  hardware  device  that  stores  binary  data.  Registers  arelocated on the processor so information can be accessed very quickly. 
+
+Data  processing  on  a  computer  is  usually  done  on  fixed  size  binary  wordsthat are stored in registers. Therefore, most computers have registers of a certainsize.  Common  sizes  include  16,  32,  and  64  bits.  
+
+Registers contain data, addresses, or control information.  Some  registers  are  specified  as  “special  purpose”  and  may  contain only  data,  only  addresses,  or  only  control  information.  Other  registers  are  more generic and may hold data, addresses, and control information at various times.Information is written to registers, read from registers, and transferred fromregister  to  register.  Registers  are  not  addressed  in  the  same  way  memory  is addressed. Registers are addressed and manipulated by the control unit itself. In  modern  computer  systems,  there  are  many  types  of  specialized  registers that:
+
+- Store  information
+- Shift  values
+- Compare values
+- Count
