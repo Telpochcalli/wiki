@@ -89,4 +89,10 @@ Some other stuff you might find:
 # Basic install:
 1.  sudo apt-get install build-essential
 2.  sudo apt install synaptic
-3.  nVidia drivers (optional)
+3.  sudo update-grub
+4.  sudo add-apt-repository ppa:gnome-shell-extensions/ppa
+5.    sudo apt-get update
+6.    sudo apt-get install gnome-shell-extensions
+7.  nVidia drivers (optional)
+8.  vlc (optional)
+9.  
