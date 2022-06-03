@@ -93,6 +93,9 @@ Some other stuff you might find:
 4.  sudo add-apt-repository ppa:gnome-shell-extensions/ppa
 5.    sudo apt-get update
 6.    sudo apt-get install gnome-shell-extensions
-7.  nVidia drivers (optional)
-8.  vlc (optional)
-9.  
+7.  sudo apt install python3-dev python3-pip
+8.  sudo apt install python-pip (https://joshspicer.com/python37-ssl-issue)
+9.  sudo apt-get install python3-catkin-tools
+10.  nVidia drivers (optional)
+11.  vlc (optional)
+12.  
