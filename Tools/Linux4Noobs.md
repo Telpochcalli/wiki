@@ -85,3 +85,8 @@ Some other stuff you might find:
 - `&&` will literraly run 2 commands, one after the other
 - `||` will take the output of one command and shove it into the next
 - `*` will replace any amount of letters (for example search for any file that ends in png would be *.png)
+
+# Basic install:
+1.  sudo apt-get install build-essential
+2.  sudo apt install synaptic
+3.  nVidia drivers (optional)
