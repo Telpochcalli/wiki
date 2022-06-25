@@ -14,3 +14,7 @@ A more complete [guide](https://askubuntu.com/questions/1243252/how-to-install-a
 
 
 [OpenOCD](https://gnutoolchains.com/arm-eabi/openocd/).
+
+
+https://libusb.info/
+

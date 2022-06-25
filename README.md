@@ -76,6 +76,8 @@ Esos links son referencias a otras documentaciones para poder hacer cosas mas ch
 1. J-Link manuals: https://www.segger.com/downloads/jlink/
 1. BSP lib: https://github.com/illini-robomaster/iRM_Embedded_Libraries/tree/master/BSP
 
+1. Nvidia Jetson Prebuilt toolchain: https://gnutoolchains.com/jetson/
+
 ## Rules:
 
 - Folder per topic.
