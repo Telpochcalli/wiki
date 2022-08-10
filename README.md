@@ -1,56 +1,38 @@
-# Beforehand
+# Telpochcalli Wiki
 
 Hi and welcome. 
 
 This md was introduced to make ir easier to read the docs, so if you have no idea what is happening, you came to the right place.
 
-There is an index don below if you need help navigating. **Content should be in english.**
+There is an index down below if you need help navigating. **Content should be in english.**
 
-In this repository you will fin a guide to develop code in Telpochcalli. Appart from that we have a handfull of current robomaster documentation as a back-up.
+In this repository you'll find a guide to develop code in Telpochcalli. And a handfull of current robomaster documentation as a back-up.
 
 # Index
 
 ## Documentation 
-    There is a lot of robomasters documentation available in PDFs, we have gathered the most important and you can watch them in display under
-- [All the PDF][PDFs]
+We have gathered the most important Robomaster documentation, available as PDFs at
+- [All the PDF](PDFs)
   
+
+## Get started 
+- [Get started Guide](docGuide)
+- If you have problems mergin code form your machine, [check this link](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) to set up GitHub access tokens.
+
+## Suggested tools
+
+- [Linux intro](LinuxIntro)
+- [Linux for noobs](Linux4Noobs.md)
+- [Linux's terminal](LinuxTerminal)
+
 ## Embedded systems
 - [Dev board type C](Embedded%20Systems/DevBoards/Type%20C/DevBoardTypeC.md)
 - [Motor guide](Embedded%20Systems/Motors/Motors.md)
 
-## Get started 
-
-- [Get started Guide][docGuide]
-- If you have problems mergergin code form your machine, [check this lik](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) to set up GitHub access tokens.
-
-## Suggested tools
-
-- [Linux intro][LinuxIntro]
-- [Linux for noobs](Linux4Noobs.md)
-- [Linux's terminal][LinuxTerminal]
+## Control theory
 
 
-# Structure
-
-Content distribution:
-- Embedded Systems
-    - Actuator control.
-        - Datasheets
-        - Manuals
-        - Libraries
-        - Tips and handful more documentation.
-    - Sensors
-        - Datasheets
-        - Libreries
-        - Tips and handful more documentation.
-- Communication
-    - Protocols
-        - Set up guides
-
-
-## Links utiles
-
-Esos links son referencias a otras documentaciones para poder hacer cosas mas chidas y mejor.
+## Useful links
 
 1. Official RM GitHub: https://github.com/RoboMaster
 1. Offial RM forum: https://bbs.robomaster.com/portal.php
@@ -78,6 +60,23 @@ Esos links son referencias a otras documentaciones para poder hacer cosas mas ch
 
 1. Nvidia Jetson Prebuilt toolchain: https://gnutoolchains.com/jetson/
 
+# Structure
+
+## Content distribution:
+- Embedded Systems
+    - Actuator control.
+        - Datasheets
+        - Manuals
+        - Libraries
+        - Tips and handful more documentation.
+    - Sensors
+        - Datasheets
+        - Libreries
+        - Tips and handful more documentation.
+- Communication
+    - Protocols
+        - Set up guides
+        
 ## Rules:
 
 - Folder per topic.
@@ -85,7 +84,7 @@ Esos links son referencias a otras documentaciones para poder hacer cosas mas ch
 - If you have questions, ask @JorgePerC.
 - Content in
 
-## Dentro de cada documento:
+### Document content :
 
 Intenten seguir este lineamiento:
 
