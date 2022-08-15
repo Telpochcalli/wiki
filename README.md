@@ -21,13 +21,17 @@ We have gathered the most important Robomaster documentation, available as PDFs 
 
 ## Suggested tools
 
-- [Linux intro](LinuxIntro)
-- [Linux for noobs](Linux4Noobs.md)
-- [Linux's terminal](LinuxTerminal)
+- [Linux intro](Tools/Linux4Noobs.md)
+
 
 ## Embedded systems
-- [Dev board type C](Embedded%20Systems/DevBoards/Type%20C/DevBoardTypeC.md)
+- [Taproot](Embedded%20Systems/Taproot.md)
+- [Upload code](Embedded%20Systems/GuideEmbeddedSystems.md)
 - [Motor guide](Embedded%20Systems/Motors/Motors.md)
+
+### Basic knowledge
+*This is the only section that can contain content in spanish*
+- [Guides](Guides)
 
 ## Control theory
 

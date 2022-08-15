@@ -47,13 +47,13 @@ The default GUI file mannager on ubuntu is called nautilus. It is pretty simmila
 
 Drag and drop works. double click to oppen files with default app, right click for options... great, the main reason why to use it, is to have a quick way to look at things, but also, unlike any other os, you can open the terminal on the current directory you are on... right click on any part and go to oppen in terminal. A new terminal will oppen with the current directory.
 
-Other useful things might be to oppen nautilos from terminal with administrative permisions, type `sudo nautilus`, and there will be no stopping you to what files you can or can't oppen. To see hissen files, just go into options.
+Other useful things might be to oppen nautilos from terminal with administrative permisions, type `sudo nautilus`, and there will be no stopping you to what files you can or can't oppen. To see hidden files, just go into options.
 
 ## Terminal
 
-Bu!
+    Bu!
 
-Jaja probably scared you. 
+    Jaja probably scared you. 
 
 Don't worry tho, the terminal isn't scarry, it is just missunderstood.
 
@@ -71,7 +71,7 @@ Usefull commands are:
 - `man` -> how to use a command, for example man nautilus will bring out all the file mannager info
 - `sudo` -> the sefault run as admin (DO NOT USE UNLESS YOU KNOW WHAT IS HAPPENING)
 - `nano` -> text editor
-- `ssh` -> connecto to other computor
+- `ssh` -> connecto to other computer
 - `apt` -> app installer (can also uninstall and update)
 - `mkdir` -> make a directory (new folder)
 - `rmdir` -> remove a directory (by default will only delete empty folders, check flags for more options)
@@ -87,15 +87,17 @@ Some other stuff you might find:
 - `*` will replace any amount of letters (for example search for any file that ends in png would be *.png)
 
 # Basic install:
-1.  sudo apt-get install build-essential
-2.  sudo apt install synaptic
-3.  sudo update-grub
-4.  sudo add-apt-repository ppa:gnome-shell-extensions/ppa
-5.    sudo apt-get update
-6.    sudo apt-get install gnome-shell-extensions
-7.  sudo apt install python3-dev python3-pip
-8.  sudo apt install python-pip (https://joshspicer.com/python37-ssl-issue)
-9.  sudo apt-get install python3-catkin-tools
-10.  nVidia drivers (optional)
-11.  vlc (optional)
-12.  
+    sudo apt-get install build-essential
+    sudo apt install synaptic
+    sudo update-grub
+    sudo add-apt-repository ppa:gnome-shell-extensions/ppa
+      sudo apt-get update
+      sudo apt-get install gnome-shell-extensions
+    sudo apt install python3-dev python3-pip
+    sudo apt install [python-pip](https://joshspicer.com/python37-ssl-issue)
+    sudo apt-get install python3-catkin-tools
+
+
+*  nVidia drivers (optional)
+*  vlc (optional)
+*  

@@ -15,9 +15,14 @@ Sorry bro, we still haven't figure this out 😔.
 
 ## Universal Requirements:
 
-1. [ARM gcc tool chain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm). This includes a compiler, debugger and libraries to develop to an ARM platform. 
-2. CMake. Tool to ease compiling process. 
+* [ARM gcc tool chain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm). This includes a compiler, debugger and libraries to develop to an ARM platform. 
+* CMake. Tool to ease compiling process. 
+* Free tools to burn (upload) the code onto the board:
+    * STLINK: https://github.com/stlink-org/stlink
+    * Install on Windows: https://github.com/stlink-org/stlink/blob/develop/doc/compiling.md#Windows
 
+* OpenOCD: http://openocd.org/getting-openocd/ 
+    * Necesary to debug
 
 ### Linux:
 1. GDB 
