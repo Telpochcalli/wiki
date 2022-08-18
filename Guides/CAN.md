@@ -48,7 +48,7 @@ It can have different purposes, and such different service indicators. Every ser
 * NMT: Network Management. Control the node state.
 * SYNC: Syncronization. Syncrorinez inputs and outputs between the network and the master. 
 * EMCY: Emergency. Communicate to all the network a node is failing, along with failure info.
-* PDO: Process Data Object. Transmit real-time data, along with timestamps
+* [PDO](https://www.can-cia.org/can-knowledge/canopen/pdo-protocol): Process Data Object. Transmit real-time data, along with timestamps
 * SDO: Service Data Object. Transmit non real-time data
     * SDO recieve (request)
     * PDO transmit (response)
@@ -78,6 +78,8 @@ Components:
 * Datatype
 * Access
 * Category
+
+[More on](https://www.can-cia.org/can-knowledge/canopen/device-architecture/)
 
 ### CAN EDS
 Electronic Data Sheet.
@@ -121,4 +123,13 @@ J1939 protocol
 
 IoT CAN Loggers
 
+[Object Dictionary++](https://www.novantaims.com/downloads/firmware/canopen/object_dictionary.pdf)
+
+[CANOpen DeviceDesigner](https://www.emotas.de/en/produkte/canopen-device-designer)
+
 [Code&Tools](https://www.canopen.us/index.php/links/code-tools-utilities)
+
+Tools:
+
+* [libedssharp](https://github.com/robincornelius/libedssharp)
+* [CANOpen Editor](https://community.nxp.com/t5/S32-SDK/I-m-new-to-S32-Design-Studio-and-trying-to-use-the-Processor/td-p/687276)
