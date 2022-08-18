@@ -52,7 +52,6 @@ Other useful things might be to oppen nautilos from terminal with administrative
 ## Terminal
 
     Bu!
-
     Jaja probably scared you. 
 
 Don't worry tho, the terminal isn't scarry, it is just missunderstood.
@@ -90,14 +89,27 @@ Some other stuff you might find:
     sudo apt-get install build-essential
     sudo apt install synaptic
     sudo update-grub
-    sudo add-apt-repository ppa:gnome-shell-extensions/ppa
-      sudo apt-get update
-      sudo apt-get install gnome-shell-extensions
-    sudo apt install python3-dev python3-pip
-    sudo apt install [python-pip](https://joshspicer.com/python37-ssl-issue)
-    sudo apt-get install python3-catkin-tools
 
+    sudo apt-get update
+    sudo apt-get install gnome-shell-extensions
+    sudo apt install python3-dev python3-pip
+
+    sudo apt-get install python3-catkin-tools
+    
+    sudo apt install git
+    sudo apt-get install openssl libssl-dev
+    gdb
 
 *  nVidia drivers (optional)
 *  vlc (optional)
-*  
+*  Python (depending on what you wanna do):
+    * [pyenv](https://voragine.net/link/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrapper-pipenv-etc)
+    [how to](https://medium.datadriveninvestor.com/how-to-install-and-manage-multiple-python-versions-on-linux-916990dabe4b)
+    * [python-pip](https://joshspicer.com/python37-ssl-issue)
+* The following are programs that you must compile from source
+  * [stlink](https://github.com/stlink-org/stlink)
+  * arm compiler
+  * [pandoc](https://pandoc.org/installing.html) (optional)
+
+
+Once the prior has been installed, you may continue with [ubuntu](../Embedded%20Systems/UpdloadCode_ARMToolChain.md)

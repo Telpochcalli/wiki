@@ -17,7 +17,7 @@ We have gathered the most important Robomaster documentation, available as PDFs 
 
 ## Get started 
 - [Get started Guide](docGuide)
-- If you have problems mergin code form your machine, [check this link](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) to set up GitHub access tokens.
+- If you have problems merging code form your machine, [check this link](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) to set up GitHub access tokens.
 
 ## Suggested tools
 
@@ -112,14 +112,17 @@ Gracias UwU. 🐉
 https://www.youtube.com/watch?v=rXGE4tEj5IM
 
 
-* **.bin files** Binary files. 
-* **.dll files** _insert_ files. 
-* **.pdb files** _files_ files. 
-* **.xml files** _insert_ files. 
-* **.xaml files** _insert_ files. 
-* **.ioc files** According to: https://file.org/extension/ioc, specify the which app can use the different files. 
-* **.bat files** batch file. Contains executable commands for Windows' Console.  https://www.computerhope.com/jargon/b/batchfil.htm. 
+* **.bin** Binary files. 
+* **.dll** _insert_ files. 
+* **.pdb** _files_ files. 
+* **.xml** _insert_ files. 
+* **.xaml** _insert_ files. 
+* **.ioc** According to: https://file.org/extension/ioc, specify the which app can use the different files. 
+* **.bat** batch file. Contains executable commands for [Windows' Console.](https://www.computerhope.com/jargon/b/batchfil.htm) 
 * **CMOS** 
+* **.deb** kinda Linux installer.
+* **.tar/.bz2/.gz/.zip** compressed files. 
+    * Check [how to make them executable](https://askubuntu.com/questions/25961/how-do-i-install-a-tar-gz-or-tar-bz2-file). And remember, try to follow the system structure!   
 * **RTOS:** Real Time Operating Systems
 * **G++** Tool to compile C/C++ programs
 * **Gdb** Tool to debug C/C++ programs

@@ -20,9 +20,18 @@ Sorry bro, we still haven't figure this out 😔.
 * Free tools to burn (upload) the code onto the board:
     * STLINK: https://github.com/stlink-org/stlink
     * Install on Windows: https://github.com/stlink-org/stlink/blob/develop/doc/compiling.md#Windows
+    * Install on Ubuntu:
+
+    sudo add-apt-repository ppa:team-gcc-arm-embedded/ppa
+
+    sudo apt update
 
 * OpenOCD: http://openocd.org/getting-openocd/ 
     * Necesary to debug
+
+
+https://askubuntu.com/questions/637113/unable-to-locate-package-lib32bz2-1-0
+
 
 ### Linux:
 1. GDB 
