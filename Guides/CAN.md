@@ -132,4 +132,4 @@ IoT CAN Loggers
 Tools:
 
 * [libedssharp](https://github.com/robincornelius/libedssharp)
-* [CANOpen Editor](https://community.nxp.com/t5/S32-SDK/I-m-new-to-S32-Design-Studio-and-trying-to-use-the-Processor/td-p/687276)
+* [CANOpen Editor](https://github.com/CANopenNode/CANopenEditor)

@@ -18,6 +18,10 @@ Brian Douglas == ❤️
 * https://mcuoneclipse.com/
 
 
+http://underactuated.mit.edu/lyapunov.html#Slotine90
+https://byjus.com/maths/lyapunov-functions/
+
+
 ### Simulators
 * https://coppeliarobotics.com/
 * Qemu
